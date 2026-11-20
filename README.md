@@ -2,6 +2,8 @@
 
 An end-to-end data science pipeline on 1,037 privately held startups valued at $1B+ ("unicorns"): data cleaning, statistical testing, multi-level exploratory analysis, and machine learning, all in Python.
 
+**Live demo:** https://unicorn-explorer.streamlit.app
+
 ## Key findings
 
 - **Typical valuation:** geometric mean about $2.0B (95% CI $1.96B to $2.15B). The arithmetic mean ($3.29B) is inflated by a few giants (skew 11.6).
